@@ -8,6 +8,8 @@
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-fittext": "^1.0.0",
+    "react-live-clock": "^4.0.5",
     "react-scripts": "3.4.2"
   },
   "scripts": {
@@ -30,5 +32,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "react-clock": "^2.4.0"
   }
 }
