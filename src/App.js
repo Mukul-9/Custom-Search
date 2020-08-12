@@ -17,7 +17,7 @@ if (currDate >= 4 && currDate < 12) {
 function App() {
   return (
     <div className="App">
-      <h1 style={{ color: "whitesmoke", fontSize: "40px" }}>HELLO MUKUL</h1>
+      <h1 style={{ color: "whitesmoke", fontSize: "40px" }}>HELLO USER</h1>
       <h1 style={{ color: "whitesmoke", fontSize: "30px" }}>{greeting}</h1>
       <h2 style={{ color: "whitesmoke" }}>{new Date().toLocaleDateString()}</h2>
       <ReactFitText compressor={0.7}>
